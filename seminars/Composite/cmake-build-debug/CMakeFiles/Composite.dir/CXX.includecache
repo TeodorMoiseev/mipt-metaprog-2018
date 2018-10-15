@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/teodormoiseev/Study/mipt-metaprog-2018/Seminars/Composite/main.cpp
+iostream
+-
+string
+-
+list
+-
+
