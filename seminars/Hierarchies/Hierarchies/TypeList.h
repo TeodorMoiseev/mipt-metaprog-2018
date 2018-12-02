@@ -13,8 +13,8 @@ struct NullType {};
 
 template <typename ...Args>
 struct TypeList {
-    using head = NullType;
-    using tail = NullType;
+    using Head = NullType;
+    using Tail = NullType;
 };
 
 typedef TypeList<> EmptyList;
