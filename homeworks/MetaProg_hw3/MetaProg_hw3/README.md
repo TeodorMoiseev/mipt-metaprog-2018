@@ -1,4 +1,5 @@
 #  Homework 3
+Stages 1 and 2 are done.
 ## Output of this program:
 ```
 1 0.5 metaprogramming 
